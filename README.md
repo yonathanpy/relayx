@@ -1,5 +1,6 @@
+![banner](https://raw.githubusercontent.com/github/explore/main/topics/security/security.png)
 # RELAYX
-  ![banner](https://raw.githubusercontent.com/github/explore/main/topics/security/security.png)
+
 Lightweight TCP relay designed for controlled traffic forwarding and network flow observation.
 
 ---
