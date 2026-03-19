@@ -1,4 +1,4 @@
-![STRATUM Banner](https://raw.githubusercontent.com/github/explore/main/topics/security/security.png)
+![Security Banner](https://publicdomainpictures.net/pictures/250000/t2/cyber-security-1515836154wzI.jpg)
 # RELAYX
 
 Lightweight TCP relay designed for controlled traffic forwarding and network flow observation.
