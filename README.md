@@ -1,9 +1,8 @@
-![Security Banner](https://publicdomainpictures.net/pictures/250000/t2/cyber-security-1515836154wzI.jpg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shadow&color=0:000000,100:001122&height=180&section=header&text=RELAYX&fontSize=70&fontColor=00ffff&animation=shine&fontAlignY=45" />
+</p>
+
 # RELAYX
-
-Lightweight TCP relay designed for controlled traffic forwarding and network flow observation.
-
----
 
 ## Overview
 
