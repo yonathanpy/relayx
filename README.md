@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001122&height=180&section=header&text=RELAYX&fontSize=70&fontColor=00ffff&fontAlignY=50" />
 </p>
-# RELAYX
 
 ## Overview
 
